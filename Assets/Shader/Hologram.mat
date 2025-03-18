@@ -41,7 +41,7 @@ Material:
     - _HologramIntensity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RimPower: 2.1
+    - _RimPower: 1.42
     m_Colors:
     - _HologramColor: {r: 0.15806335, g: 0.9056604, b: 0.836418, a: 0}
   m_BuildTextureStacks: []
