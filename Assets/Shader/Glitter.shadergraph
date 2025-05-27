@@ -808,7 +808,7 @@
     "m_ObjectId": "04c64509a51a4a6b8978ccf690ca5353",
     "m_Title": "Base Color",
     "m_Position": {
-        "x": 1554.0001220703125,
+        "x": 1554.0,
         "y": -1456.0
     }
 }
@@ -1203,7 +1203,7 @@
     "m_Title": "Get View Direction",
     "m_Position": {
         "x": 755.0,
-        "y": -1664.9998779296875
+        "y": -1665.0
     }
 }
 
@@ -1910,7 +1910,7 @@
     "m_Title": "Fresnel Nodes",
     "m_Position": {
         "x": 1685.0,
-        "y": -2880.000244140625
+        "y": -2880.0
     }
 }
 
@@ -4488,8 +4488,8 @@
     "m_ObjectId": "dfc2473ab05f44cfa88646aa83a77198",
     "m_Title": "Combining Color",
     "m_Position": {
-        "x": 1638.0001220703125,
-        "y": -2237.000244140625
+        "x": 1638.0,
+        "y": -2237.0
     }
 }
 

@@ -746,8 +746,8 @@
     "m_ObjectId": "2c7859648d00472f9d2bad9b4ea9bad0",
     "m_Title": "Normals Calculation",
     "m_Position": {
-        "x": -402.9999694824219,
-        "y": 391.00018310546877
+        "x": -403.0,
+        "y": 391.0
     }
 }
 
@@ -1481,7 +1481,7 @@
     "m_ObjectId": "76e7249514344071ba86091a8ff9c0bb",
     "m_Title": "Refraction",
     "m_Position": {
-        "x": -417.9999694824219,
+        "x": -418.0,
         "y": -74.0
     }
 }
@@ -2464,7 +2464,7 @@
     "m_ObjectId": "e01a3a42dd194a9898180ccb8873da1f",
     "m_Title": "Fresnel Calculation",
     "m_Position": {
-        "x": -399.9999694824219,
+        "x": -400.0,
         "y": -514.0
     }
 }
